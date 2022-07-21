@@ -30,3 +30,13 @@
     transform: translateY(-10px);
 }
 
+.img-box{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 65%;
+    background-image: url("images/Candy.png");
+    background-size: cover;
+    background-position: center;
+}
