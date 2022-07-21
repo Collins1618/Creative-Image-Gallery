@@ -36,7 +36,10 @@
     right: 0;
     height: 100%;
     width: 65%;
-    background-image: url("images/Candy.png");
+    background-image: url("images/background.png");
     background-size: cover;
     background-position: center;
+}
+.hero h2:hover ~ .img-box{
+    background-image: url("images/Candy.png");
 }
